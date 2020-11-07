@@ -11,12 +11,12 @@ function StoryReel() {
                 title="SayedRahim Sadat"
             />
             <Story
-                image="https://i.pinimg.com/originals/b0/86/38/b0863898da87ff074d83cc3dc7bf9a2a.jpg"
+                image="https://s3.weddbook.com/t4/2/3/2/2327966/10-most-amazing-places-on-earth.jpg"
                 profileSrc="https://i.ytimg.com/vi/TcxzDcffZ9U/maxresdefault.jpg"
                 title="Amazing Places"
             />
             <Story
-                image="https://miro.medium.com/max/1024/1*egOeK5Y9CabeKsnR4vMkhQ.jpeg"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWQRx4-zDXGmW3CwEpZVbryFnNzZKZB5batg&usqp=CAU"
                 profileSrc="https://static.frontendmasters.com/assets/courses/2020-02-14-pure-react-state/thumb@2x.jpg"
                 title="Learn React JS"
             />
