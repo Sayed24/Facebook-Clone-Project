@@ -26,7 +26,8 @@ function StoryReel() {
                 title="Online Programming"
             />
             <Story
-                image="https://upload.wikimedia.org/wikipedia/commons/b/b6/Shaki_Waterfall%2C_Armenia_-_%D5%87%D5%A1%D6%84%D5%AB%D5%AB_%D5%BB%D6%80%D5%BE%D5%A5%D5%AA%2C_%D5%80%D5%A1%D5%B5%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6.jpg"
+                image="https://scontent.fsac1-1.fna.fbcdn.net/v/t1.0-9/123580422_3765969003434151_4154354569554021378_o.jpg?_nc_cat=104&ccb=2&_nc_sid=5b7eaf&_nc_ohc=g5q5zlkW-dEAX_d0VxO&_nc_ht=scontent.fsac1-1.fna&oh=2e6aeab5ee487555353f335fefff0a67&oe=5FCCA04F"
+                // image="https://upload.wikimedia.org/wikipedia/commons/b/b6/Shaki_Waterfall%2C_Armenia_-_%D5%87%D5%A1%D6%84%D5%AB%D5%AB_%D5%BB%D6%80%D5%BE%D5%A5%D5%AA%2C_%D5%80%D5%A1%D5%B5%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6.jpg"
                 profileSrc="https://www.ietravel.com/sites/iet/files/styles/panopoly_image_original/public/kaieteur.jpg?t=1JTwyD&itok=VE3tiKe9"
                 title="Beauty of Nature"
             />
